@@ -1,5 +1,5 @@
 /**
- * Created by umang.gupta on 1/10/2018.
+ * Created on 1/10/2018.
  */
 public class SinglyLinkedList {
     protected Node startNode;
